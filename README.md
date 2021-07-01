@@ -8,6 +8,7 @@
 4) [IMPROVE OBJECT DETECTION WITH FEATURE - BASED KNOWLEDGE DISTILLATION : TOWARDS ACCURATE AND EFFICIENT DETECTORS](https://openreview.net/forum?id=uKhGRvM8QNH)
 5) [INTEGRATION OF GENERATIVE LEARNING AND MULTIPLE POSE CLASSIFIERS FOR PEDESTRIAN DETECTION](https://www.researchgate.net/publication/267243270_Integration_of_generative_learning_and_multiple_pose_classifiers_for_pedestrian_detection)
 6) [Exploring Prior Knowledge for Pedestrian Detection](https://www.researchgate.net/publication/301452569_Exploring_Prior_Knowledge_for_Pedestrian_Detection)
+7) [Efficient Person Search via Expert-Guided Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/8759990)
 
 
 ### Relevant papers:
