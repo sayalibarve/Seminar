@@ -1,7 +1,5 @@
 # Seminar
-#### Hello, I am currently reading the papers specified below. Please let me know if any of these is not suitable.
-
-### Currently reading:
+#### Papers read for Master Seminar.
 1) [Localization Distillation for Object Detection](https://arxiv.org/abs/2102.12252)
 2) [Fast Pedestrian Detection in Surveillance Video Based on Soft Target Training of Shallow Random Forest](https://www.researchgate.net/publication/330330688_Fast_Pedestrian_Detection_in_Surveillance_Video_Based_on_Soft_Target_Training_of_Shallow_Random_Forest)
 3) [Deep Learning based Pedestrian Detection at all Light Conditions](https://ieeexplore.ieee.org/document/8698101)
